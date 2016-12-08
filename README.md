@@ -31,7 +31,7 @@ MyIntentService is my Service name   and i want to  perform some action like sen
 startActionFoo().in side i  wrote my logic to send a notification every min
 
 
-**REMEMEMBER:**
+**REMEMBER:**
 
 `In order to run your Service,You must have working Internet connection
 `
