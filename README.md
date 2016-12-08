@@ -50,3 +50,11 @@ startActionFoo().in side i  wrote my logic to send a notification every min
 
 `where as in IntentService it automatically created and stops itself once it get done
 `
+
+
+`SPECIAL THANKS TO ANDROID TUTORIALS POINT:
+`
+
+
+
+`**AUTHOR:<a href="http://trinadhkoya.github.io/">TRINADH KOYA</a>**`
