@@ -57,4 +57,7 @@ startActionFoo().in side i  wrote my logic to send a notification every min
 
 
 
-`**<a href="http://trinadhkoya.github.io/">TRINADH KOYA</a>**`
+**AUTHOR**:
+
+**`TRINADH KOYA**
+`
